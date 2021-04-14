@@ -47,7 +47,7 @@
                             <outlet property="delegate" destination="BYZ-38-t0r" id="Rtg-52-GTq"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Track List" id="4iv-Ps-DeY"/>
+                    <navigationItem key="navigationItem" title="Track List" largeTitleDisplayMode="never" id="4iv-Ps-DeY"/>
                     <connections>
                         <segue destination="oXN-g7-qBy" kind="show" identifier="showDetails" id="XUS-oZ-z3B"/>
                     </connections>
